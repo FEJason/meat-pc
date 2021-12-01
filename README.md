@@ -1,4 +1,4 @@
-# PC端
+# PC端重构版
 
 # 项目框架
 vue-cli4 + vue2 + viewUI + axios
